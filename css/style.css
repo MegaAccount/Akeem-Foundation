@@ -8,27 +8,27 @@
 
 @font-face {
     font-family: font1;
-    src: url(/font/Oi-Regular.ttf);
+    src: url(../font/Oi-Regular.ttf);
 }
 
 @font-face {
     font-family: font2;
-    src: url(/font/Chewy-Regular.ttf);
+    src: url(../font/Chewy-Regular.ttf);
 }
 
 @font-face {
     font-family: font3;
-    src: url(/font/KakekakeitalicpersonaluseNmi-Rpz16.otf);
+    src: url(../font/KakekakeitalicpersonaluseNmi-Rpz16.otf);
 }
 
 @font-face {
     font-family: font4;
-    src: url(/font/Demo_Fonts/Fontspring-DEMO-artis-sans-extralight.otf);
+    src: url(../font/Demo_Fonts/Fontspring-DEMO-artis-sans-extralight.otf);
 }
 
 @font-face {
     font-family: font5;
-    src: url(/font/Amatic_SC/AmaticSC-Bold.ttf)
+    src: url(../font/Amatic_SC/AmaticSC-Bold.ttf)
 }
 
 
