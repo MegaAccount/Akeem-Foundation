@@ -441,7 +441,9 @@ hr {
     background-repeat:no-repeat;
     background-position: 55%;
     background-size: cover;
-    background
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
     z-index: 0;
     
 }
