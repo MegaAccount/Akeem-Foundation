@@ -439,7 +439,7 @@ hr {
     background-image: url(../img/dog11.jpg);
     background-repeat:no-repeat;
     background-position: fixed;
-    background-size: 55%/cover;
+    background-size: cover;
     z-index: 0;
     
 }
