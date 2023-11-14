@@ -194,7 +194,7 @@ nav ul li a {
 }
 
 .parallax {
-    background-image: url(img/dog5.jpg);
+    background-image: url(../img/dog5.jpg);
     min-height: 550px;
     max-width: 100%;
     background-attachment: fixed;
