@@ -438,6 +438,9 @@ hr {
     width: 100%;
     background-image: url(../img/dog11.jpg) no-repeat fixed 55%/cover;
     z-index: -1;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
 }
 
 .parallax-1-text {
