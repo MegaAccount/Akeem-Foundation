@@ -436,7 +436,7 @@ hr {
 .parallax-1 {
     min-height: 600px;
     width: 100%;
-    background: url(../img/dog11.jpg) no-repeat fixed 55%/cover;
+    background-image: url(../img/dog11.jpg) no-repeat fixed 55%/cover;
     z-index: -1;
 }
 
@@ -592,7 +592,7 @@ hr {
 
 .parallax-2 {
     width: 100%;
-    background: url(../img/dog11.jpg);
+    background-image: url(../img/dog11.jpg);
     background-attachment: fixed;
     background-position: 58%;
     background-repeat: no-repeat;
