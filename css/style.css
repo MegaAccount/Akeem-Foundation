@@ -437,10 +437,8 @@ hr {
     min-height: 600px;
     width: 100%;
     background-image: url(../img/dog11.jpg) no-repeat fixed 55%/cover;
-    z-index: -1;
-    -webkit-background-size: 55%/cover;
-    -moz-background-size: 55%/cover;
-    -o-background-size: 55%/cover;
+    z-index: 0;
+    
 }
 
 .parallax-1-text {
